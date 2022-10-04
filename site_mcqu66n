@@ -1,0 +1,72 @@
+site.html
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>маккуин</title>
+        <link rel="stylesheet" href="style.css">
+
+        <tittle>
+            <h1>
+            Document
+            </h1>
+        </tittle>
+        <hr>
+    </head>
+    <dody>
+        <div class="div_wolf">
+        <div>
+            <div_wolf>
+                <img src="maki.jpg" width="700" height="400" alt="">
+                <hr>
+            </div_wolf>
+        </div>
+
+        <p>
+            <tittle><h2>Site Title</h2></tittle>
+
+            <d>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
+                Placeat, consequatur? Eaque nihil labore sunt, <br>
+                illum illo rerum beatae hic pariatur! <br>
+                Doloribus asperiores placeat iusto tenetur magnam expedita quam quis distinctio. <br>
+        </d></p>
+
+        <textarea name="text" cols="60" rows="6" placeholder="Оставьте комментарий"></textarea>
+        <button>Отправить</button>
+        <hr>
+
+        <div class="siv_retro">
+            <div_tetro>
+                <tittle><h2>Site title</h2></tittle>
+
+                <video controls="controls" src= "Мак_встречает_ночных_СтритРэйсеровМолния_Маквин_пропадает_ночью_Тачки2006[OnlyYT.net].mp4" width="700" height="400" alt="">
+
+            </div_tetro>
+        </div>
+
+
+        <textarea name="text" cols="60" rows="6" placeholder="Оставьте комментарий"></textarea>
+        <button>Отправить</button>
+        <hr>
+
+
+        <form>
+            Никнейм: <br>
+            <input type="text"> <br>
+
+            Логин: <br>
+            <input type="text"> <br>
+
+            Пароль: <br>
+            <input type="text"> <br>
+
+
+            <button>Войти</button> <br>
+        </form>
+        <hr>
+    </dody>
+</html>
+
